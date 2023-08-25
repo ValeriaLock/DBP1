@@ -36,7 +36,42 @@ animes = [
      "puntaje": 7,
      "tipo": "Serie",
      "season": "Summer 2023",
-     "generos": ["Action", "Adventure", "Drama", "Romance"]}
+     "generos": ["Action", "Adventure", "Drama", "Romance"]},
+
+     {"id": 6,
+     "titulo": "Jujutsu Kaisen",
+     "puntaje": 8,
+     "tipo": "Serie",
+     "season": "Summer 2023",
+     "generos": ["Action", "Drama", "Supernatural"]},
+
+     {"id": 7,
+     "titulo": "Mushoku Tensei II",
+     "puntaje": 8,
+     "tipo": "Serie",
+     "season": "Summer 2023",
+     "generos": ["Adventure", "Drama", "Ecchi", "Fantasy"]},
+
+     {"id": 8,
+     "titulo": "Zom 100",
+     "puntaje": 8,
+     "tipo": "Serie",
+     "season": "Summer 2023",
+     "generos": ["Action", "Comedy", "Horror"]},
+
+     {"id": 9,
+     "titulo": "Horimiya",
+     "puntaje": 8,
+     "tipo": "Serie",
+     "season": "Summer 2023",
+     "generos": ["Comedy", "Romance", "Slice of Life"]},
+
+     {"id": 10,
+     "titulo": "Watashi no Shiawase na Kekkon",
+     "puntaje": 8,
+     "tipo": "Serie",
+     "season": "Summer 2023",
+     "generos": ["Drama", "Romance", "Supernatural"]}
 ]
 
 # Ruta para obtener todos los animes
